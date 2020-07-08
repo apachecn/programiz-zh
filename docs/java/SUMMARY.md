@@ -106,7 +106,7 @@
     +   [Java `BufferedInputStream`类](107.md)
     +   [Java `BufferedOutputStream`类](108.md)
     +   [Java `PrintStream`类](109.md)
-+   [Java 读取器/编写器](110.md)
++   [Java 读取器/写入器](110.md)
     +   [Java `Reader`类](111.md)
     +   [Java `Writer`类](112.md)
     +   [Java `InputStreamReader`类](113.md)
