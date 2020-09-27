@@ -40,6 +40,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install programiz-zh
+programiz-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
